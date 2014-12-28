@@ -189,7 +189,7 @@
           <li>
             <h5>Старшие администраторы</h5>
             <p>
-<strong><a href="https://github.com/vosur">[SO]vosur</a></strong>, <strong><a href="https://github.com/tym32167">tym32167</a></strong>, <strong><a href="http://www.tehgam.com/memberlist.php?mode=viewprofile&u=66">[K]STELS]</a></strong> — выполняют роль «вышестоящей инстанции»могут и могут, при необходимости, вне очереди рассмотреть любую заявку, по любым нарушениям, а также изменить уже существующую меру наказания или полностью снять любую блокировку.
+<strong><a href="https://github.com/vosur">[SO]vosur</a></strong>, <strong><a href="https://github.com/tym32167">tym32167</a></strong>, <strong><a href="http://www.tehgam.com/memberlist.php?mode=viewprofile&u=66">[K]STELS</a></strong> — выполняют роль «вышестоящей инстанции»могут и могут, при необходимости, вне очереди рассмотреть любую заявку, по любым нарушениям, а также изменить уже существующую меру наказания или полностью снять любую блокировку.
             </p>
           </li>
           <hr>
