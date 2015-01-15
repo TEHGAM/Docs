@@ -1,5 +1,5 @@
 <h1 align="center">Правила TEHGAM</h1>
-<blockquote>Дата последнего обновления правил: <strong>06.01.2015</strong></blockquote>
+<blockquote>Дата последнего обновления правил: <strong>15.01.2015</strong></blockquote>
 <table>
   <thead align="left"><tr><th><h3>Основные правила игровых серверов</h3></th></tr></thead>
   <tbody>
