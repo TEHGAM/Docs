@@ -302,7 +302,7 @@
   </tbody>
 </table>
 <table>
-  <thead align="left"><tr><th><h3>TEHGAM Elite и Mini Game</h3></th></tr></thead>
+  <thead align="left"><tr><th><h3>TEHGAM Elite/Mini Games</h3></th></tr></thead>
   <tbody>
     <tr>
       <td>
